@@ -111,7 +111,7 @@ https://github.com/SAM86030/Insurance-Analytics-Dashboard-PowerBi/blob/main/Dash
 https://github.com/SAM86030/Insurance-Analytics-Dashboard-PowerBi/blob/main/Dashboard%20Screenshot%20Page2.png
 
 ### * Page 3: Feedback Analysis
-(Add Screenshot Here)
+https://github.com/SAM86030/Insurance-Analytics-Dashboard-PowerBi/blob/main/Dashboard%20Screenshot%20Page3.png
 
 ## Dashboard Preview 
 
