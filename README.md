@@ -3,7 +3,7 @@
 # 🛡️ Insurance Analytics Dashboard (Power BI)
 
  
-## 📊 Project Overview
+##  Project Overview
  
 This project presents an interactive Insurance Analytics Dashboard built using Power BI. The dashboard analyzes policy performance, claim trends, customer activity, and overall business efficiency across multiple report pages.
  
@@ -32,7 +32,7 @@ The goal of this dashboard is to analyze insurance data by visualizing premiums,
  
 ### 3️ Walkthrough of Key Visuals
  
-### 📍 Page 1: Overview Dashboard
+### * Page 1: Overview Dashboard
  
 - KPI Cards show important metrics such as Total Premium Amount, Total Coverage Amount, and Total Claim Amount  
 - Policy Type Analysis compares premium across Travel, Health, Auto, and Life policies  
@@ -40,12 +40,12 @@ The goal of this dashboard is to analyze insurance data by visualizing premiums,
 - Claim Status Analysis shows Pending, Rejected, and Settled claims  
 - Age Group Analysis highlights claim amount by customer age group  
 
-### 📍 Page 2: Customer & Policy Details
+### * Page 2: Customer & Policy Details
  
 - Detailed Data Table provides customer-level information including policy, premium, and claim details  
 - Enables deeper analysis using filters like Customer ID, Policy Number, and Claim Number  
 
-### 📍 Page 3: Feedback Analysis
+### * Page 3: Feedback Analysis
  
 - Word Cloud highlights frequently used customer feedback words  
 - Rating Chart shows overall customer satisfaction levels  
@@ -104,13 +104,13 @@ Some insights that can be derived from the dashboard include:
   
 ## 🖼 Dashboard Preview
  
-### 📍 Page 1: Overview
+### * Page 1: Overview
 (Add Screenshot Here)
 
-### 📍 Page 2: Customer Details
+### * Page 2: Customer Details
 (Add Screenshot Here)
 
-### 📍 Page 3: Feedback Analysis
+### * Page 3: Feedback Analysis
 (Add Screenshot Here)
 
 ## Dashboard Preview 
