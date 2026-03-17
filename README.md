@@ -105,7 +105,7 @@ Some insights that can be derived from the dashboard include:
 ## 🖼 Dashboard Preview
  
 ### * Page 1: Overview
-(Add Screenshot Here)
+https://github.com/SAM86030/Insurance-Analytics-Dashboard-PowerBi/blob/main/Dashboard%20Screenshot%20Page1.png
 
 ### * Page 2: Customer Details
 (Add Screenshot Here)
