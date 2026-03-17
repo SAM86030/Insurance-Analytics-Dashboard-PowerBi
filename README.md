@@ -1,4 +1,4 @@
-# Insurance-Analytics-Dashboard---PowerBi
+# Insurance-Analytics-Dashboard-PowerBi
 
 # 🛡️ Insurance Analytics Dashboard (Power BI)
 
